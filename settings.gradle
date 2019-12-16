@@ -1,0 +1,2 @@
+include ':app_activ2', ':app', ':app_activ1'
+rootProject.name='U4T6Contacts'

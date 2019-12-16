@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">U4T6</string>
+    <string name="empty_list">No contacts Aviable</string>
+    <string name="contacts_read_required">APPLICATION NEEDS READING RIGHTS TO CONTACTS</string>
+</resources>
